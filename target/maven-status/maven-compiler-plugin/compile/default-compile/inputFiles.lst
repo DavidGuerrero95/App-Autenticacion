@@ -1,0 +1,10 @@
+S:\Users\Documentos\SmartCity\Aplicacion\workspace\App-Autenticacion\src\main\java\com\app\autenticacion\security\AuthorizationServerConfig.java
+S:\Users\Documentos\SmartCity\Aplicacion\workspace\App-Autenticacion\src\main\java\com\app\autenticacion\models\Roles.java
+S:\Users\Documentos\SmartCity\Aplicacion\workspace\App-Autenticacion\src\main\java\com\app\autenticacion\repository\UsuarioPwRepository.java
+S:\Users\Documentos\SmartCity\Aplicacion\workspace\App-Autenticacion\src\main\java\com\app\autenticacion\config\SwaggerConfiguration.java
+S:\Users\Documentos\SmartCity\Aplicacion\workspace\App-Autenticacion\src\main\java\com\app\autenticacion\clients\UsersFeignClient.java
+S:\Users\Documentos\SmartCity\Aplicacion\workspace\App-Autenticacion\src\main\java\com\app\autenticacion\security\WebSecurityConfig.java
+S:\Users\Documentos\SmartCity\Aplicacion\workspace\App-Autenticacion\src\main\java\com\app\autenticacion\controllers\AutenticacionController.java
+S:\Users\Documentos\SmartCity\Aplicacion\workspace\App-Autenticacion\src\main\java\com\app\autenticacion\models\UsuarioPw.java
+S:\Users\Documentos\SmartCity\Aplicacion\workspace\App-Autenticacion\src\main\java\com\app\autenticacion\AppAutenticacionApplication.java
+S:\Users\Documentos\SmartCity\Aplicacion\workspace\App-Autenticacion\src\main\java\com\app\autenticacion\services\UserDetailsServiceImpl.java

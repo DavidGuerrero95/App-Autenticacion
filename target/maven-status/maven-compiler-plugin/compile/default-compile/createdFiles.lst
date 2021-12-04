@@ -1,0 +1,10 @@
+com\app\autenticacion\security\WebSecurityConfig.class
+com\app\autenticacion\clients\UsersFeignClient.class
+com\app\autenticacion\services\UserDetailsServiceImpl.class
+com\app\autenticacion\controllers\AutenticacionController.class
+com\app\autenticacion\security\AuthorizationServerConfig.class
+com\app\autenticacion\repository\UsuarioPwRepository.class
+com\app\autenticacion\AppAutenticacionApplication.class
+com\app\autenticacion\config\SwaggerConfiguration.class
+com\app\autenticacion\models\Roles.class
+com\app\autenticacion\models\UsuarioPw.class

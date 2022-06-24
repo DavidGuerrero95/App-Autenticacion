@@ -59,6 +59,17 @@ public class AutenticacionController {
 			throw new IOException("Error: " + e.getMessage());
 		}
 	}
+	
+	@DeleteMapping("/autenticacion/eliminar/all/usuarios/")
+	@ResponseStatus(code = HttpStatus.ACCEPTED)
+	public Boolean eliminarAllUsuario() throws IOException {
+		try {
+			upRepository.deleteAll();
+			return true;
+		} catch (Exception e) {
+			throw new IOException("Error: " + e.getMessage());
+		}
+	}
 
 	@PutMapping("/autenticacion/editar")
 	public Boolean editarUsuarioAuth(@RequestParam String username, @RequestParam String uEdit,

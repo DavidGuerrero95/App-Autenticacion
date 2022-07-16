@@ -15,7 +15,7 @@ import org.springframework.security.core.userdetails.UsernameNotFoundException;
 import org.springframework.stereotype.Service;
 
 import com.app.autenticacion.controllers.AutenticacionController;
-import com.app.autenticacion.models.UsuarioPw;
+import com.app.autenticacion.requests.UsuarioPw;
 
 @Service
 public class UserDetailsServiceImpl implements UserDetailsService {
